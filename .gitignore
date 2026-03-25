@@ -1,0 +1,29 @@
+# Credenciales y tokens
+**/credentials.json
+**/token.json
+**/config.json
+**/.env
+
+# Datos sensibles
+**/*.csv
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Entornos virtuales
+**/venv/
+**/.venv/
+**/env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Catálogo generado
+catalog.json
